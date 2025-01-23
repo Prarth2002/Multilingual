@@ -5,3 +5,5 @@ gtts>=2.3.2
 pydub>=0.25.1
 speechrecognition>=3.8.1
 requests>=2.31.0
+pyaudio
+gtts
